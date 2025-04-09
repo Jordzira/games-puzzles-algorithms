@@ -1,4 +1,5 @@
 # simplified version of nimnega_v2.py rbh 2025
+# True or false dict means we've stored it already
 def piles():
    while True:
        raw = input('nim game pile sizes (eg. 3 5 7)   ')
